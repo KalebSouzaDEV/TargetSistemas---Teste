@@ -11,8 +11,10 @@ public class Main {
         int numeroEntrada = scanner.nextInt();
         Exercise1.numberInSequence(numeroEntrada);
 
+        scanner.nextLine();
+
         System.out.println("Digite um texto para verificar");
-        String texto = scanner.next();
+        String texto = scanner.nextLine();
         System.out.println("Digite uma letra para verificar se possui no texto");
         String letter = scanner.next();
         Exercise2.verifyCharInText(texto, letter);
