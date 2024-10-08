@@ -1,6 +1,7 @@
+Console em funcionamento:
+
 ![image](https://github.com/user-attachments/assets/393661e0-6fce-4748-b2ec-bbdc3f57fa92)
 
-Console em funcionamento
 
 
 Exercícios 4 e 5 em .TXT: 
